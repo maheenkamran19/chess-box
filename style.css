@@ -1,0 +1,34 @@
+img {
+    width: 60px;
+    height: 60px;
+}
+h1 {
+    text-align: center;
+ color: brown;
+ font-style: italic;
+}
+table {
+    width: 576px;
+    height: 576px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 72px;
+    height: 72px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 55px;
+    padding: 0;
+}
+.brown {
+    background-color:#BA8D3B ;
+}
+
+.light-brown {
+    background-color: #f3d187;
+}
+.nums {
+    font-size: 17px;
+}
